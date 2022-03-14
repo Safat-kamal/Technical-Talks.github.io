@@ -29,8 +29,8 @@ A single page Site contain Multiple Section built using
 ## Portfolio
 ![Portfolio](https://github.com/Safat-kamal/Technical-Talks.github.io/blob/master/screenshots/Web%20capture_14-3-2022_133639_.jpeg?raw=true)
 
-## Clients 
-![clients](https://github.com/Safat-kamal/Technical-Talks.github.io/blob/master/screenshots/Web%20capture_14-3-2022_13372_.jpeg?raw=true)
+## Team 
+![team](https://github.com/Safat-kamal/Technical-Talks.github.io/blob/master/screenshots/Web%20capture_14-3-2022_13372_.jpeg?raw=true)
 ## Run Locally
 
 Clone the project
